@@ -1,5 +1,5 @@
 :root{
-    --cor-principal: #FFFFFF;
+    --cor-principal: #e2adad;
     --cor-secundaria: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
@@ -9,7 +9,7 @@
 
 body {
     background-color: var(#00030C);
-    color: var(#FFFFFF);
+    color: var(#e2adad);
     font-family: var('Inter');
     font-size: 16px;
     font-weight: 400;
