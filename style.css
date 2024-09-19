@@ -1,14 +1,18 @@
-:root{
+:root {
     --cor-principal: #ff00aa;
     --cor-secundaria: #5a0707;
     --botao-azul: #167BF7;
-    --cor-de-fundo:#000205;
+    --cor-de-fundo: #000205;
 }
 
 body {
-   background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo);
 }
 
-.principal{
-    background-image: url(Background.png);
+.principal {
+    background-image: url("Background.png");
+}
+
+.container{
+    height: 100vh;
 }
