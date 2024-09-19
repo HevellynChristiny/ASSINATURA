@@ -1,6 +1,6 @@
 :root{
     --cor-principal: #e2adad;
-    --cor-secundaria: #C0C0C0;
+    --cor-secundaria: #5a0707;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
@@ -9,5 +9,4 @@
 
 body {
     background-color: var(#00030C);
-
 }
